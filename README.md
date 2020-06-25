@@ -1,61 +1,38 @@
 # Weekly Nerd @cmda-minor-web · 2019-2020
 
-Elke week is er op woensdagmiddag de Weekly Nerd: 
-Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
+Hoi, en welkom op mijn kleine Weekly Nerd readme.
+Alle informatie die ik uit de verschillende talks en presentaties heb kunnen halen zijn hier te vinden zowel als de verschillende artikelen die ik heb geschreven gedurende mijn minor webdevelopement.
 
-## Leerdoelen
-- Kennismaken met het beroepenveld
-- Orienteren op het vakgebied
-- Vakgerelateerde artikelen leren schrijven
+## Presentaties
 
-## Werkwijze
-Elke week wordt er een presentatie gegeven door iemand uit het vakgebied. 
-Dit proberen we zo veel mogelijk bij bedrijven te organiseren. 
-Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
+#### Hidde de Vries
 
+Hidde de Vries sprak over zijn ervaring als UX designer, W3C en functioneel design.
+https://github.com/DanielvandeVelde/weekly-nerd-1920/blob/master/HiddeDeVries.md
 
-Maak van iedere presentatie sketch-notes / aantekeningen en verzamel die op een blog. 
-Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
+#### Sanne 't Hooft
 
+Sanne sprak over interacties en micro-interacties en hoe je deze het beste kan uitvoeren.
+https://github.com/DanielvandeVelde/weekly-nerd-1920/blob/master/SanneTHoofd.md
 
-## Criteria
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Je mag niet meer dan 1 Weekly Nerd missen. 
-Als je meer dan 1 Weekly Nerd mist dan krijg je een vervangende opdracht.
+#### Funda
 
+Bij Funda was er een talk over het werkveld, hoe zij het daar doen zowel als een workshop waar ik op heb gereflecteerd.
+https://github.com/DanielvandeVelde/weekly-nerd-1920/blob/master/Funda.md
 
-3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.
+## Artikelen
 
-Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
+#### Formulieren en queries serverside
 
+Het eerste artikel wat ik heb geschreven was een uitleggende handleiding over hoe mijn medestudenten met gebruik van Node, Express, EJS en queries het beste data op een website konden zetten met formulieren zonder Javascript te gebruiken.
+https://github.com/DanielvandeVelde/browser-technologies-1920/blob/master/tutorial/tutorial.md
 
-### Voorbeelden van voorgaande jaren
+#### Dark Patterns
 
-* https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
-* https://codepen.io/servinnissen/post/plan-then-code
-* https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
-* https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
-* https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
+Binnen het ontwerpen van websites zitten design patterns. Harry Brignull richt zich echter op de negatieve patronen van design; dark patterns.
+https://github.com/DanielvandeVelde/weekly-nerd-1920/blob/master/DarkPatterns.md
 
+#### Toegankelijke SVGs
 
-## Programma
-
-### Workshops, praatjes en lezingen
-
-
-| Datum  |  Wat/Wie | Waar  | Link | 
-|---|---|---|---|
-| 13 Februari  | Hidde de Vries - Toegankelijkheid en CSS expert bij W3C  | BPH 01B11  |   |
-| 19 Februari  | Sanne 't Hoofd - Code en UX  | BPH 01B11  |   |
-| 26 Februari  | FUNDA - Scrum en proof-of-concept  | Funda  |   |
-| ~~11 Maart~~  | ~~Voorhoede - PE~~ | ~~de Voorhoede~~  |   |
-| ~~18 Maart~~  | ~~Bol.com~~  | ~~Bol.com~~  |   |
-|   |   |   |   |   |
-
-
-
-
+Na een presentatie van Vitaly Friedman en zelf altijd Font Awesome te hebben gebruikt ben ik opzoek gegaan naar een correct alternatief.
+https://github.com/DanielvandeVelde/weekly-nerd-1920/blob/master/SVG.md
