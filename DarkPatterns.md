@@ -8,7 +8,7 @@ De makers van de dark patterns zijn zich er goed van bewust dat zij zelf iets wi
 Dit kunnen inschrijvingen zijn voor de maillijst, nieuwe gebruikers voor hun website of zelfs meer betalende klanten.    
 Omdat zij dit willen zullen zij de mogelijkheid om dit niet te doen of je weer uit te schrijven zo moeilijk mogelijk maken door dit te verstoppen of deze optie helemaal niet te geven.   
  
-Het meest bekende dark pattern is door Harry een Roach Motel genoemd.   
+Het meest bekende dark pattern is door Brignull een Roach Motel genoemd.   
 Letterlijk vertaald is dit een Kakkerlakken motel maar denk er over als een soort fuik.    
 Roach motel is een situatie die makkelijk is om in te komen en lastig om er weer uit te kunnen.    
 Denk aan de bekende mailinglijst die al aangevinkt staat bij het aanmaken van je account of waar je je voor opgeeft terwijl je de voorwaardes van de website accepteert. Het afmelden is echter vaak een stuk moeilijker.
@@ -41,11 +41,11 @@ Deze kleine beetjes informatie kunnen met elkaar overlapt worden door bijvoorbee
 
 ### Prijsvergelijkingspreventie
 Als het moeilijk is om prijzen te vergelijken met een ander item zal dat er voor zorgen dat het moeilijker is om een goed geïnformeerde beslissing te maken over je aankopen.   
-Het niet laten zien van verschillende specificaties van de producten en de prijsverschillen in deze specificaties is volgens Harry een dark pattern.   
+Het niet laten zien van verschillende specificaties van de producten en de prijsverschillen in deze specificaties is volgens Brignull een dark pattern.   
 
 ### Misleiding
 De aandacht trekken zodat de gebruiker zich focust op een onderdeel zodat de andere opties niet duidelijk zijn.   
-Het door Harry gegeven voorbeeld is de gebruiker een keuze geven die hem indirect geld kost die de hele pagina inneemt.   
+Het door Brignull gegeven voorbeeld is de gebruiker een keuze geven die hem indirect geld kost die de hele pagina inneemt.   
 Ergens onderin een hoekje zullen licht transparante letters staan die je alles laten overslaan zonder geld uit te geven.   
 Dit voorbeeld is misleidend in het idee dat zij een in dit proces het laten lijken alsof dit noodzakelijk is en je hier dus geld aan uitgeeft uit vrije wil.   
 
@@ -59,7 +59,7 @@ Je bent dus eerder bereid deze bestelling af te ronden in plaats van het op te g
 ### Wisseltruc
 Vele dark patterns spelen in op al bestaande design patterns.    
 De wisseltruc of in het Engels ‘Bait and Switch’ is een truc waarin bestaande patronen een andere betekenis krijgen.   
-Het voorbeeld wat Harry zelf aanhaalt op zijn website is dat rechts bovenin een venster op Windows er een rood-kruis zit.   
+Het voorbeeld wat Brignull zelf aanhaalt op zijn website is dat rechts bovenin een venster op Windows er een rood-kruis zit.   
 Dit kruis betekend al sinds vrijwel het begin van Windows dat dit het venster sluit.   
 Meer doet dit kruis normaal gesproken ook niet.     
 Windows heeft dit echter verandert voor zichzelf en nam het sluiten van het venster op als een impliciet akkoord.   
